@@ -4,13 +4,32 @@ CareEase is a caregiver companion mobile app concept designed to support dementi
 
 ## My Role (Mahitha Gogu)
 **Project Analytics / Data Analyst**
-- Owned budget planning and projected vs. actual cost variance tracking
-- Contributed to risk prioritization using RPN scoring and mitigation planning
-- Supported project metrics and stakeholder governance documentation
+## Project Impact
 
-## What is Included
-- Project proposal, scope statement, communication plan, risk analysis, and final presentation
-- Key visuals for quick review (timeline, cost variance, risk prioritization, workflow)
+- Applied structured RPN-based risk prioritization
+- Conducted projected vs. actual cost variance analysis
+- Designed stakeholder communication and governance plan
+- Developed phase-based workflow for execution monitoring
+
+## Key Deliverables (PDF)
+
+- [Project Proposal](docs/01-project-proposal.pdf)
+- [Scope Statement](docs/02-project-scope-statement.pdf)
+- [Risk Analysis](docs/03-risk-analysis.pdf)
+- [Communication Management Plan](docs/04-communication-management-plan.pdf)
+- [Budget Variance Analysis](docs/05-budget-variance-analysis.pdf)
+- [Project Phase Workflow Diagram](docs/06-project-phase-workflow-diagram.pdf)
+- [Final Presentation](docs/07-final-presentation.pdf)
+
+## Tools & Methods Used
+
+- Project lifecycle planning
+- Risk analysis (RPN scoring)
+- Budget variance tracking
+- Stakeholder communication planning
+- Workflow diagram modeling
+- Microsoft Excel
+- PowerPoint
 
 ## Repository Structure
 - `docs/` – Full project documents (PDF)
