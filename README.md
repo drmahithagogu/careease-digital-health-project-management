@@ -1,7 +1,12 @@
 # CareEase - Digital Health Project Management Case Study
 
-CareEase is a caregiver companion mobile app concept designed to support dementia caregivers with medication tracking, appointment scheduling, emergency contacts, and secure record-keeping.
+## Executive Summary
 
+CareEase is a structured digital health project management case study simulating the development of a caregiver companion app for dementia care. 
+
+This project demonstrates end-to-end project lifecycle planning including risk prioritization (RPN scoring), budget variance tracking, stakeholder communication planning, and workflow modeling.
+
+The focus was on translating healthcare requirements into measurable project governance, cost control, and risk mitigation strategies.
 ## My Role (Mahitha Gogu)
 **Project Analytics / Data Analyst**
 ## Project Impact
