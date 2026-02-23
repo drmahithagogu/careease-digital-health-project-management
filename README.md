@@ -35,3 +35,14 @@ CareEase is a caregiver companion mobile app concept designed to support dementi
 - `docs/` – Full project documents (PDF)
 - `visuals/` – Key figures/screenshots for quick review
 - `notes/` – Lessons learned and supporting notes
+
+## Quick Preview
+
+### Risk Prioritization (RPN)
+![Risk Matrix](visuals/risk-matrix.png)
+
+### Budget Variance Tracking
+![Budget Variance](visuals/budget-variance.png)
+
+### Project Phase Workflow
+![Workflow Diagram](visuals/workflow-diagram.png)
